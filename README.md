@@ -79,7 +79,7 @@ This project is built in a single, complete notebook:
 
 ## 🧾 Repository Structure
 
-Titanic-ML-Classification/
+ML-Titanic-Survival-Classification/
 │
 ├── data/
 │   ├── train.csv
