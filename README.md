@@ -105,13 +105,13 @@ jupyter notebook notebooks/titanic_binary_classification.ipynb
 
 ---
 
-##📊 Dataset
+## 📊 Dataset
 
 Available on Kaggle: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 **Rami Bahi**
 
@@ -121,6 +121,6 @@ Available on Kaggle: [Titanic: Machine Learning from Disaster](https://www.kaggl
 
 ---
 
-##⭐ If you like this project...
+## ⭐ If you like this project...
 
 Give it a star ⭐ on GitHub to support my work and journey!
