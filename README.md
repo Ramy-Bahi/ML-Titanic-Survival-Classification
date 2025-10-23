@@ -114,7 +114,9 @@ Available on Kaggle: [Titanic: Machine Learning from Disaster](https://www.kaggl
 ##👨‍💻 Author
 
 **Rami Bahi**
+
 🎓 Master’s Student in Artificial Intelligence
+
 💻 Passionate about Machine Learning, Deep Learning & Web Development
 
 ---
