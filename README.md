@@ -79,6 +79,18 @@ This project is built in a single, complete notebook:
 
 ## 🧾 Repository Structure
 
+Titanic-ML-Classification/
+│
+├── data/
+│   ├── train.csv
+│   ├── test.csv
+│
+├── notebooks/
+│   ├── titanic_classification.ipynb
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
 
 ---
 
