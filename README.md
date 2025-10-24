@@ -97,7 +97,7 @@ ML-Titanic-Survival-Classification/
 ## 🧩 How to Run
 
 ```bash
-git clone https://github.com/<yourusername>/Titanic-Survival-Classification.git
+git clone https://github.com/Ramy-Bahi/Titanic-Survival-Classification.git
 cd Titanic-Survival-Classification
 pip install -r requirements.txt
 jupyter notebook notebooks/titanic_binary_classification.ipynb
